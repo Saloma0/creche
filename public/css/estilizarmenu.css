@@ -1,0 +1,128 @@
+
+
+/*formatar menu*/
+nav#topo ul{
+	display:block;
+}
+
+nav#topo ul{
+	list-style:none;
+	position:absolute;
+	top:20px;
+	left:400px;
+
+}
+nav#topo li{
+display: inline-block;
+
+/*background-color:#12b9d2;
+padding: 10px;*/
+margin:10px;
+background-color:#29abcc;
+padding:10px;
+transition: 
+background-color 1s;
+}
+
+nav#topo li:hover{
+	background-color: white;
+	
+}
+
+nav#topo h1{
+	display:none;
+} 
+
+nav#topo a:hover{
+	
+	color:#29abcc;
+}
+
+nav#topo a{
+	color: white;
+	text-decoration: none;
+}
+
+
+/*Texto Lateral*/
+nav#textolateral ul{
+	list-style:none;
+	position:absolute;
+	top:190px;
+	left:800px;
+	font-family:Arial;
+	font-size: large;
+}
+nav#text li{
+display: inline-block;
+
+
+
+/*background-color:#12b9d2;
+padding: 10px;*/
+margin:10px;
+background-color:#29abcc;
+padding:10px;
+transition: background-color 1s;
+}
+
+/*botão borda*/
+/*background-color:#12b9d2;
+padding: 10px;*/
+nav#linkbaixo li{
+	border-radius: 20px;
+	display: inline-block;
+margin:10px;
+background-color:#29abcc;
+padding:10px;
+transition: background-color 1s;
+}
+
+nav#linkbaixo li:hover{
+	background-color: white;
+	
+}
+
+nav#linkbaixo h1{
+	display:block;
+} 
+
+nav#linkbaixo olh:hover{
+	color:#29abcc;
+}
+
+nav#linkbaixo olh{
+	color: white;
+	text-decoration: none;
+}
+
+nav#linkbaixo ul{
+	display:inline-block;
+}
+
+nav#linkbaixo ul{
+	list-style:none;
+	position:absolute;
+	top:360px;
+	left:800px;
+}
+
+nav#linkbaixo ul{
+	list-style:none;
+	position:absolute;
+	top:360px;
+	left:800px;
+	
+}
+
+
+
+nav#topo{
+
+
+}
+
+nav#ul{
+
+
+}

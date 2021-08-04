@@ -1,0 +1,203 @@
+@charset="UTF-8";
+body{
+color: white;
+font-family:Calibri;
+}
+
+
+
+h1{
+	
+	color:#fffff;
+}
+
+h2{
+	
+	color:#fffff;
+}
+
+h3{
+	
+	color:#ffffff;
+}
+
+
+
+/*formatar menu*/
+nav#topo ul{
+	display:block;
+}
+
+nav#topo ul{
+	list-style:none;
+	position:absolute;
+	top:60px;
+	left:400px;
+}
+nav#topo li{
+display: inline-block;
+
+/*background-color:#12b9d2;
+padding: 10px;*/
+margin:10px;
+background-color:#29abcc;
+padding:10px;
+transition: background-color 1s;
+}
+
+nav#topo li:hover{
+	background-color: white;
+	
+}
+
+nav#topo h1{
+	display:none;
+} 
+
+nav#topo a:hover{
+	
+	color:#29abcc;
+}
+
+nav#topo a{
+	color: white;
+	text-decoration: none;
+}
+
+
+/*Texto Lateral*/
+nav#textolateral ul{
+	list-style:none;
+	position:absolute;
+	top:190px;
+	left:800px;
+	font-family:Arial;
+	font-size: large;
+}
+nav#text li{
+display: inline-block;
+
+
+
+/*background-color:#12b9d2;
+padding: 10px;*/
+margin:10px;
+background-color:#29abcc;
+padding:10px;
+transition: background-color 1s;
+}
+
+/*botão borda*/
+/*background-color:#12b9d2;
+padding: 10px;*/
+nav#linkbaixo li{
+	border-radius: 20px;
+	display: inline-block;
+margin:10px;
+background-color:#29abcc;
+padding:10px;
+transition: background-color 1s;
+
+}
+
+nav#linkbaixo li:hover{
+	background-color: white;
+	
+}
+
+nav#linkbaixo h1{
+	display:block;
+
+} 
+
+nav#linkbaixo olh:hover{
+	color:#29abcc;
+}
+
+nav#linkbaixo olh{
+	color: white;
+	text-decoration: none;
+}
+
+nav#linkbaixo ul{
+	display:inline-block;
+}
+
+nav#linkbaixo ul{
+	list-style:none;
+	position:absolute;
+	top:360px;
+	left:800px;
+
+}
+
+nav#linkbaixo ul{
+	list-style:none;
+	position:absolute;
+	top:360px;
+	left:800px;
+	
+}
+
+
+#cf{
+
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	height: 90%;
+	left: 0%;
+	width:90%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+
+#cf img{
+	position: absolute;
+	left: 0;
+	-webkit-transition: opacity 1s ease-in-out;
+	-moz-transition: opacity 1s ease-in-out;
+	-o-transition: opacity 1s ease-in-out;
+	transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover{
+	opacity: 0;
+}
+
+@keyframes cfFadeInOut {
+
+	0%{
+
+		opacity: 1;
+	}
+
+	17%{
+
+		opacity: 1;
+	}
+
+	25%{
+
+		opacity: 0;
+	}
+
+	92%{
+
+		opacity: 0;
+	}
+
+	100%{
+
+		opacity: 1;
+	}
+}
+
+
+#cf img.top{
+animation-name: cfFadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count:infinite;
+animation-duration: 10s;
+-moz-animation-direction: alternate-reverse;
+}

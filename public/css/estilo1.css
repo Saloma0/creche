@@ -1,0 +1,367 @@
+p{
+
+	font-size: 16px;
+}
+
+
+#formula{
+	background-image: url('Pngtree—childrens stick figure white clouds_4034559.png');
+
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+body{
+
+
+	background-color: #e8faff;
+}
+
+
+#esp{
+
+	font-size: 13px;
+}
+
+#telefone,
+#nome,
+#email
+{
+    width: 450px;
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    outline: none;
+
+   
+}
+#telefone{
+
+	width: 230px;
+}
+
+
+textarea{
+
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+#infantario,
+#berco,
+#atl,
+#creche {
+
+	font-size: 15px;
+}
+
+
+
+img{
+
+	border: 10px;
+	padding-left: 70px;
+}
+#body1{
+
+	
+	background-color: #e8faff;
+}
+
+#et2{
+
+
+	font-family: cursive;
+	font-size: 40px;
+	padding-left: 90px;
+}
+
+
+#img1{
+
+	padding-left: 800px;
+
+	
+	font-size: 28px;
+	padding-left: 110px;
+	padding-bottom: -900px;
+	margin-bottom: -70px;
+	margin-left: 40px;
+	margin-top: 90px;
+	 border: 10px solid transparent;
+  padding: 15px;
+}
+
+#pr2{
+
+margin-left: 10px;
+
+}
+
+#cfs{
+	left: 100px;
+}
+
+h2{
+
+	font-size: 40px;
+	font-family: cursive;
+	margin-left: -500px;
+
+}
+
+
+
+#etica{
+
+
+margin-left: 700px;
+margin-top: -300px;
+
+
+
+ }
+
+ #et4{
+
+ 	margin-left: 60px;
+ 	margin-top: -450px;
+ 	color:blue;
+ }
+
+#Valores{
+
+
+	margin-left: -50px;
+	margin-top: -30px;
+	background-color: white;
+
+}
+
+#et5{
+font-family: didot;
+margin-top: 25px;
+color:blue;
+
+	  
+}
+
+/* Imagem das criancas abaixo etica*/
+
+#im0{
+
+	
+	margin-left: -50px;
+	right: 20px;
+}
+
+/* Horario da creche*/
+
+
+#horario{
+
+margin-top: 5px;
+
+background-color: #163ecc;
+padding-top: 1px;
+padding-bottom: 350px;
+margin-left: -20px;
+margin-right: -50px;
+}
+
+#et3{
+margin-top: 40px;
+margin-left: 335px;
+margin-bottom: -200px;
+font-family: Bookman, URW Bookman L, serif;
+font-size: 40px;
+bottom: -1000px;
+color:white;
+}
+
+#funcio,#refeito,#secreta{
+
+
+
+}
+
+
+#funcio{
+	margin-top: -230px;
+	margin-left: 40px;
+
+
+}
+
+
+#secreta{
+margin-top: -173px;
+margin-left: 650px;
+}
+
+
+#refeito{
+margin-top: -185px;
+margin-left: 1000px;
+}
+
+
+
+#hor1{
+margin-top: 10px;
+font-size: 26px;
+font-family: Optima, sans-serif;
+color: yellow;
+}
+
+#hor2{
+
+	font-size: 14px;
+	color:white;
+	font-family: Optima, sans-serif;
+
+}
+
+
+
+/* Login*/
+
+
+
+         .login{  
+        width: 300px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 60px;  
+        background: #6cb7c3;  
+        border-radius: 15px ; 
+        height: 160px; 
+          
+}  
+#log2{  
+    text-align: center;  
+    color: #277582;  
+    padding: 20px; 
+    margin-right: 100px;
+    font-family: arial;
+
+}  
+ 
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 20px;  
+}  
+a{  
+    float: right;  
+
+}  
+
+#log2{
+
+	margin-left: -50px;
+	margin-bottom: 500px;
+
+
+}
+
+#lab1{
+
+	color: #4682B4;
+}
+
+
+#botao{
+	width: 200px;
+	border-radius: 5px;
+	margin-left: 60px;
+	height: 30px;
+	cursor: pointer;
+
+	}
+#botao:hover{
+
+	background-color: #057081;
+
+}
+
+
+
+
+#login2{
+
+	margin-top: -480px;
+	margin-left: -140px;
+
+}
+
+
+
+#eleph{
+
+	margin-top: -330px;
+	margin-left: 850px;
+}
+
+
+
+
+/* Formulario */
+
+
+
+
+
+#form1{
+
+margin-top: 90px;
+margin-bottom: -200px;
+}
+
+
+#labform{
+
+    width: 450px;
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+
+
+
+#formh1{
+
+	color:#277582;
+}
